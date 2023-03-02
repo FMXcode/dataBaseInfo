@@ -46,7 +46,7 @@
 require_once "../components/headerForVariableShowPerson.php";
 ?>
 <div class="container">
-    <h3>Поощрения/Взыскания</h3>
+    <h3>НИР</h3>
     <div class="wapper_chart">
         <?php
         require_once "../components/variableChartSRW.php";

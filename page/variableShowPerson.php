@@ -52,7 +52,7 @@ $person = mysqli_fetch_assoc($person);
 <?php
 require_once "../components/headerForVariableShowPerson.php";
 ?>
-<div class="container">
+<div class="container" style="background-color:  rgb(160, 227, 162)">
         <div class="wapper_main" style="text-align: center;">
             <p class="main_title"
                style="font-size: 20px;

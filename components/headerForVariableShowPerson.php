@@ -34,7 +34,7 @@
                 <a href="../page/variableEncouragementPage.php" class="menu_url">Поощрения/Взыскания</a>
             </li>
             <li class="menu_item">
-                <a href="#" class="menu_url">Спортивные достижения</a>
+                <a href="../page/variableSportPage.php" class="menu_url">Спортивные достижения</a>
             </li>
             <li class="menu_item">
                 <a href="#">Копии подтверждающих документов</a>
