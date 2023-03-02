@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="../style/headerMenu.css">
     <link rel="stylesheet" href="../style/varibleHeaderMenu.css">
     <title>Document</title>
-    <script src="chart.js"></script>
+    <script src="chart.umd.js"></script>
 </head>
 <style type="text/css">
     @font-face {
@@ -52,13 +52,12 @@ require_once "../components/headerForVariableShowPerson.php";
         <canvas id="myChart"></canvas>
     </div>
 
-<!--    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>-->
 
     <script>
         const ctx = document.getElementById('myChart').getContext('2d');
 
         const myChar = new Chart(ctx, {
-            type: 'bar',
+            type: 'line',
             data: {
                 labels: ['Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange'],
                 datasets: [{
