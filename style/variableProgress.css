@@ -1,0 +1,33 @@
+.wapper_input .name_semester{
+    margin-top: 20px;
+    margin-left: 35px;
+    width: 300px;
+    font-weight: 700;
+    font-size: 25px;
+    text-align: center;
+}
+.title_progress{
+    margin-top: 80px;
+}
+.wapper_grade{
+    display: flex;
+}
+.wapper_grade .select_progress{
+    padding: 5px;
+    height: 40px;
+    width: 200px;
+}
+.wapper_grade .grade_progress{
+    width: 45px;
+    height: 40px;
+}
+.wapper_grade{
+    margin-top: 10px;
+}
+.name_discipline{
+    width: 100px;
+}
+
+.wapper_form_person name_discipline{
+    width: 300px;
+}

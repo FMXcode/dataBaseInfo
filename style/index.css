@@ -1,0 +1,122 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url('fonts/Roboto-Bold.eot');
+    src: local('Roboto-Bold'), url('fonts/Roboto-Bold.woff') format('woff'), url('fonts/Roboto-Bold.ttf') format('truetype'), url('fonts/Roboto-Bold.svg') format('svg');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: url('fonts/Roboto-Medium.eot');
+    src: local('Roboto-Medium'), url('fonts/Roboto-medium.woff') format('woff'), url('fonts/Roboto-Medium.ttf') format('truetype'), url('fonts/Roboto-Medium.svg') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Roboto';
+    src: url('/fonts/Roboto-Regular.eot');
+    src: local('Roboto-Regular'), url('fonts/Roboto-Regular.woff') format('woff'), url('fonts/Roboto-Regular.ttf') format('truetype'), url('fonts/Roboto-Regular.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+body{
+    font-family: 'Roboto';
+}
+
+h3{
+    margin: 40px;
+    text-align-last: center;
+}
+.container{
+    background-color: rgb(160, 227, 162);
+    margin: 0 auto;
+    padding: 20px;
+}
+.container select {
+    width: 450px;
+}
+.container p, input, textarea, button, select{
+    display: block;
+    width: 30%;
+    margin: 0 auto;
+}
+.container p{
+    padding: 10px;
+    color: black;
+    font-size: 16px;
+    font-weight: 500;
+}
+.container input, textarea, select{
+    display: block;
+    height: calc(2.25rem + 2px);
+    padding: 0.375rem 0.75rem;
+    font-family: inherit;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #bdbdbd;
+    border-radius: 0.25rem;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+.container textarea{
+    height: 60px;
+}
+.container input:hover, textarea:hover {
+    color: #212529;
+    background-color: #fff;
+    border-color: #bdbdbd;
+    outline: 0;
+    box-shadow: 0 0 0 0.2rem rgba(158, 158, 158, 0.25);
+}
+
+
+.container button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    width: 450px;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 20px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
+
+.container button:hover {
+    background-color: white; /* Green */
+    color: #4CAF50;
+}
+
+.container .button_wapper{
+    width: 450px;
+    margin: 0 auto;
+}
+.wapper_form_person{
+    margin: 0 auto;
+    width: 1040px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.wapper_form_person input, textarea{
+    width: 420px;
+}
+.wapper_form_person p{
+    width: 422px;
+}
+
+.wapper_input, .wapper_textarea{
+    width: 420px;
+}

@@ -1,0 +1,33 @@
+.title_table_scien{
+    margin-top: 40px;
+    text-align: left;
+    margin-left: 140px;
+}
+.scien_input input{
+    width: 50px;
+}
+.scien_textarea textarea{
+    width: 150px;
+    height: 40px;
+}
+.max input{
+    width: 220px;
+}
+
+.scien_left input{
+    margin-left: 70px;
+}
+
+.scien_left20 input{
+    margin-left: 110px;
+}
+.scien_textarea .scien_select{
+    width: 170px;
+}
+.table{
+    margin: 0 auto;
+}
+.container button{
+    margin-top: 20px;
+}
+

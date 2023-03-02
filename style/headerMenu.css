@@ -1,0 +1,62 @@
+.wapper_menu{
+    padding: 5px 20px;
+    background-color: rgb(160, 227, 162);
+    position: sticky;
+    top: 1px;
+}
+.wapper_menu h3{
+    text-align: center;
+}
+.menu_button{
+    display: flex;
+    justify-content: space-between;
+}
+/*.wapper_menu_button{*/
+/*    height: 30px;*/
+/*    position: sticky;*/
+/*    top: 10px;*/
+/*}*/
+.menu_button li{
+    list-style-type: none;
+}
+
+.menu_button a {
+    color: black;
+    text-decoration: none;
+}
+.wapper_point button{
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 5px 5px;
+    text-align: center;
+    width: 170px;
+    height: 40px;
+    text-decoration: none;
+    font-size: 15px;
+    margin: 20px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
+.wapper_point button:active{
+    background-color: #14a61d;
+}
+.wapper_point{
+    display: flex;
+    justify-content: space-between;
+}
+.wapper_button{
+    display: flex;
+}
+.button_wapper a{
+    color: white;
+    text-decoration: none;
+}
+.wapper_point .activeSlideConst{
+    background-color: #14a61d;
+}
+
+

@@ -1,0 +1,44 @@
+.title_sport{
+    text-align: center;
+}
+.wapper_sport{
+    margin-top: 60px;
+}
+.wapper_table{
+    width: 1200px;
+}
+.wapper_table_sport {
+    overflow: hidden;
+    max-height: 0;
+    margin: 0 auto;
+    transition: max-height 0.2s ease-in-out;
+}
+.wapper_table_show{
+    margin-top: 40px;
+    max-height: 80px;
+}
+.lable_sport{
+    text-align: center;
+    width: 270px;
+    margin: 0;
+}
+.scien_input input{
+    width: 170px;
+}
+.arrow{
+    transform: rotate(180deg);
+    display: block;
+    width: 30px;
+    height: 30px;
+    margin: 0 auto;
+    margin-top: 25px;
+    z-index: -1;
+}
+
+.wapper_form {
+    transition: max-height 0.3s ease-in-out;
+}
+
+.mr25{
+    margin-right: 170px;
+}

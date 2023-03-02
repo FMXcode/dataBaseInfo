@@ -1,0 +1,36 @@
+.wapper_table{
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    justify-content: space-between;
+}
+.title_table{
+    width: 100%;
+    display: flex;
+}
+
+.date, .position{
+    width: 40%;
+    display: flex;
+    justify-content: space-between;
+}
+.position textarea{
+    height: 39px;
+    width: 100%;
+}
+
+.admission, .care{
+    width: 40%;
+    margin: 0;
+}
+.admission input, .care input{
+    width: 150px;
+}
+.title_list{
+    width: 220px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 40px;
+}

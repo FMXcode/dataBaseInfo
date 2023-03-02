@@ -1,0 +1,42 @@
+
+.container{
+    padding: 100px 400px;
+    background-color: rgba(79, 203, 88, 0.43);
+}
+.wapper_menu a, h3{
+    font-family: "Roboto";
+}
+.wapper_menu h3{
+    margin: 40px;
+}
+.button_wapper_get{
+    width: 450px;
+    margin: 0 auto;
+}
+.container button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    width: 450px;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 20px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
+
+.button_wapper_get a{
+    color: white;
+    text-decoration: none;
+}
+.wapper_point .activeSlideShow{
+    background-color: #14a61d;
+}
+.wapper_point .activeSlideConst{
+    background-color: #4CAF50;
+}

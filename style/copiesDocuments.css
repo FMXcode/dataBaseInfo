@@ -1,0 +1,22 @@
+.wapper_documents{
+    width: 1200px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+.wapper_add h3{
+    width: 440px;
+    text-align: center;
+}
+.wapper_documents input{
+    margin-bottom: 40px;
+    width: 400px;
+}
+
+.wapper_add p{
+    margin: 0 18px;
+}
+.wapper_documents h3{
+    font-size: 16px;
+    margin: 25px;
+}

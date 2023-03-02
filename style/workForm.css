@@ -1,0 +1,30 @@
+.wapper_work_table{
+    width: 1140px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    margin-top: 80px;
+    margin-right: 113px;
+}
+.title_work_worm{
+    text-align: left;
+    display: block;
+}
+.wapper_work_table .select-css{
+    width: 320px;
+}
+.education_item{
+    width: 400px;
+}
+.wapper_title_table{
+    display: flex;
+    justify-content: space-between;
+    width: 1100px;
+    margin: 0 auto;
+    margin-top: 40px;
+    margin-right: 166px;
+}
+.titile_list{
+    margin-top: 80px;
+}
+
