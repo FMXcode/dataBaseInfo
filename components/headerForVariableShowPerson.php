@@ -12,7 +12,7 @@
         <h3>Добавить портфолио</h3>
         <div class="wapper_button">
             <div class="button_wapper">
-                <button type="button" class="activeSlideShow"><a href="../page/showPerson.php">Предпросмотр</a></button>
+                <button type="button" class="activeSlideShow"><a href="../page/variableShowPerson.php">Предпросмотр</a></button>
             </div>
             <div class="button_wapper">
                 <button type="button"><a href="../pdf-generation/converting.php">Экспортировать в pdf</a></button>

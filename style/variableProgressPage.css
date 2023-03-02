@@ -1,0 +1,9 @@
+.chart_item{
+    width: 800px;
+    height: 400px;
+    padding: 20px;
+    margin: 0 auto;
+    margin-bottom: 60px;
+    border-radius: 20px;
+    background-color: white;
+}

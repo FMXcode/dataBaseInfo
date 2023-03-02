@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="../style/index.css">
     <link rel="stylesheet" href="../style/headerMenu.css">
     <link rel="stylesheet" href="../style/varibleHeaderMenu.css">
+    <link rel="stylesheet" href="../style/variableProgressPage.css">
     <title>Document</title>
     <script src="chart.umd.js"></script>
 </head>
@@ -45,41 +46,13 @@
 require_once "../components/headerForVariableShowPerson.php";
 ?>
 <div class="container">
-<!--    --><?php
-//    require_once "../components/variableShowPersonProgress.php";
-//    ?>
+    <h3>Средняя Успеваемость</h3>
     <div class="wapper_chart">
-        <div  style="width: 500px;height: 400px;" class="chart_progress">
-            <canvas id="myChart"></canvas>
-        </div>
+        <?php
+        require_once "../components/variableShowPersonProgress.php";
+        require_once "../components/variableProgressTable.php";
+        ?>
     </div>
-
-
-
-    <script>
-        const ctx = document.getElementById('myChart').getContext('2d');
-
-        const myChar = new Chart(ctx, {
-            type: 'line',
-            data: {
-                labels: ['1 сем.', '2 сем.', '3 сем.', '4 сем.', '5 сем.', '6 сем.',
-                    '7 сем.', '8 сем.', '9 сем.', '10 сем.'],
-                datasets: [{
-                    label: '# of Votes',
-                    data: [4.32, 4.2, 4.7, 4.7, 4.8, 4.56, 4.32, 4.2, 4.7, 4.7, 4.8, 4.56],
-                    borderWidth: 1
-                }]
-            },
-            options: {
-                scales: {
-                    y: {
-                        beginAtZero: true
-                    }
-                }
-            }
-        });
-    </script>
-
 </div>
 </body>
 
