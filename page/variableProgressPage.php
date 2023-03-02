@@ -48,9 +48,12 @@ require_once "../components/headerForVariableShowPerson.php";
 <!--    --><?php
 //    require_once "../components/variableShowPersonProgress.php";
 //    ?>
-    <div>
-        <canvas id="myChart"></canvas>
+    <div class="wapper_chart">
+        <div  style="width: 500px;height: 400px;" class="chart_progress">
+            <canvas id="myChart"></canvas>
+        </div>
     </div>
+
 
 
     <script>
@@ -59,10 +62,11 @@ require_once "../components/headerForVariableShowPerson.php";
         const myChar = new Chart(ctx, {
             type: 'line',
             data: {
-                labels: ['Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange'],
+                labels: ['1 сем.', '2 сем.', '3 сем.', '4 сем.', '5 сем.', '6 сем.',
+                    '7 сем.', '8 сем.', '9 сем.', '10 сем.'],
                 datasets: [{
                     label: '# of Votes',
-                    data: [12, 14, 3, 5, 2, 3],
+                    data: [4.32, 4.2, 4.7, 4.7, 4.8, 4.56, 4.32, 4.2, 4.7, 4.7, 4.8, 4.56],
                     borderWidth: 1
                 }]
             },
