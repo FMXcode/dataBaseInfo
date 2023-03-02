@@ -25,10 +25,13 @@
                 <a href="../page/variableShowPerson.php" class="menu_url active">Портфолио</a>
             </li>
             <li class="menu_item">
-                <a href="#" class="menu_url">НИР</a>
+                <a href="../page/variableSRWPage.php" class="menu_url">НИР</a>
             </li>
             <li class="menu_item">
                 <a href="../page/variableProgressPage.php" class="menu_url">Успеваемость</a>
+            </li>
+            <li class="menu_item">
+                <a href="../page/variableEncouragementPage.php" class="menu_url">Поощрения/Взыскания</a>
             </li>
             <li class="menu_item">
                 <a href="#" class="menu_url">Спортивные достижения</a>

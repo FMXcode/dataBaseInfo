@@ -9,9 +9,10 @@
                     margin-top: 25px;">
         <div class="table_content">
             <p style="text-align:left;
-                      width: 200px;
+                      width: 230px;
                       margin: 0;
-                      font-size: 18px;"> 1 семестр </p>
+                      font-size: 18px;
+                       background-color: rgba(255, 99, 132, 0.4)"> 1 семестр </p>
             <div class="table" style="margin-top: 5px;">
                 <table style="border: 1px solid #000;
                               border-collapse: collapse;
@@ -76,9 +77,11 @@
         </div>
         <div class="table_content">
             <p style="text-align:left;
-                      width: 200px;
+                      width: 230px;
                       margin: 0;
-                      font-size: 18px;"> 2 семестр </p>
+                      font-size: 18px;
+                      background-color: rgba(255, 159, 64, 0.4);
+"> 2 семестр </p>
             <div class="table" style="margin-top: 5px;">
                 <table style="border: 1px solid #000;
                               border-collapse: collapse;
@@ -150,9 +153,10 @@
                     margin-top: 25px;">
         <div class="table_content">
             <p style="text-align:left;
-                      width: 200px;
+                      width: 230px;
                       margin: 0;
-                      font-size: 18px;"> 3 семестр </p>
+                      font-size: 18px;
+background-color: rgba(255, 205, 86, 0.4)"> 3 семестр </p>
             <div class="table" style="margin-top: 5px;">
                 <table style="border: 1px solid #000;
                               border-collapse: collapse;
@@ -217,9 +221,10 @@
         </div>
         <div class="table_content">
             <p style="text-align:left;
-                      width: 200px;
+                      width: 230px;
                       margin: 0;
-                      font-size: 18px;"> 4 семестр </p>
+                      font-size: 18px;
+background-color: rgba(75, 192, 192, 0.4)"> 4 семестр </p>
             <div class="table" style="margin-top: 5px;">
                 <table style="border: 1px solid #000;
                               border-collapse: collapse;
@@ -293,9 +298,10 @@
                     margin-top: 25px;">
         <div class="table_content">
             <p style="text-align:left;
-                      width: 200px;
+                      width: 230px;
                       margin: 0;
-                      font-size: 18px;"> 5 семестр </p>
+                      font-size: 18px;
+background-color: rgba(54, 162, 235, 0.4)"> 5 семестр </p>
             <div class="table" style="margin-top: 5px;">
                 <table style="border: 1px solid #000;
                               border-collapse: collapse;
@@ -360,9 +366,10 @@
         </div>
         <div class="table_content">
             <p style="text-align:left;
-                      width: 200px;
+                      width: 230px;
                       margin: 0;
-                      font-size: 18px;"> 6 семестр </p>
+                      font-size: 18px;
+background-color: rgba(153, 102, 255, 0.4)"> 6 семестр </p>
             <div class="table" style="margin-top: 5px;">
                 <table style="border: 1px solid #000;
                               border-collapse: collapse;
@@ -434,9 +441,10 @@
                     margin-top: 25px;">
         <div class="table_content">
             <p style="text-align:left;
-                      width: 200px;
+                      width: 230px;
                       margin: 0;
-                      font-size: 18px;"> 7 семестр </p>
+                      font-size: 18px;
+background-color: rgba(201, 203, 207, 0.4)"> 7 семестр </p>
             <div class="table" style="margin-top: 5px;">
                 <table style="border: 1px solid #000;
                               border-collapse: collapse;
@@ -501,9 +509,10 @@
         </div>
         <div class="table_content">
             <p style="text-align:left;
-                      width: 200px;
+                      width: 230px;
                       margin: 0;
-                      font-size: 18px;"> 8 семестр </p>
+                      font-size: 18px;
+background-color: rgba(27,149,238,0.4)"> 8 семестр </p>
             <div class="table" style="margin-top: 5px;">
                 <table style="border: 1px solid #000;
                               border-collapse: collapse;
@@ -576,9 +585,10 @@
                     margin-top: 25px;">
     <div class="table_content">
         <p style="text-align:left;
-                      width: 200px;
+                      width: 230px;
                       margin: 0;
-                      font-size: 18px;"> 9 семестр </p>
+                      font-size: 18px;
+background-color: rgba(93,18,239,0.4)"> 9 семестр </p>
         <div class="table" style="margin-top: 5px;">
             <table style="border: 1px solid #000;
                               border-collapse: collapse;
@@ -643,9 +653,10 @@
     </div>
     <div class="table_content">
         <p style="text-align:left;
-                      width: 200px;
+                      width: 230px;
                       margin: 0;
-                      font-size: 18px;"> 10 семестр </p>
+                      font-size: 18px;
+background-color: rgb(27,232,39, 0.4)"> 10 семестр </p>
         <div class="table" style="margin-top: 5px;">
             <table style="border: 1px solid #000;
                               border-collapse: collapse;
