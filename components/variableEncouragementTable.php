@@ -1,4 +1,4 @@
-<div class="wapper_flex" style="display:flex; margin: 0 auto;justify-content:space-between;">
+<div class="wapper_flex" style="display:flex; margin: 0 auto;justify-content:space-between;width: 1400px;">
     <div class="wapper_item">
         <h2 style="text-align:center;
                     font-size: 16px;

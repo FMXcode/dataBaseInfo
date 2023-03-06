@@ -7,3 +7,9 @@
     border-radius: 20px;
     background-color: white;
 }
+.wapper_flex{
+    width: 1400px;
+}
+.wapper_table_progress .table_content{
+    background-color: white;
+}

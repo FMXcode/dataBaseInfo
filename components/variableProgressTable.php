@@ -1,6 +1,6 @@
 <h2 style="text-align:center;
                         font-size: 16px;">4. Успеваемость по семестрам</h2>
-<div class="wapper_fle" style="display:flex;">
+<div class="wapper_flex" style="display:flex; width: 1400px;margin: 0 auto;">
     <div class="wapper_table_progress"
          style="display:flex;
                     justify-content:space-between;
@@ -27,6 +27,7 @@
                         <td style="border: 1px solid #000;
                                border-collapse: collapse;
                                padding: 5px">
+                            5
                         </td>
                     </tr>
                     <tr>
@@ -37,7 +38,7 @@
                         </td>
                         <td style="border: 1px solid #000;
                                border-collapse: collapse;
-                               padding: 5px"></td>
+                               padding: 5px">5</td>
                     </tr>
                     <tr>
                         <td style="border: 1px solid #000;
@@ -47,7 +48,7 @@
                         </td>
                         <td style="border: 1px solid #000;
                                border-collapse: collapse;
-                               padding: 5px">96
+                               padding: 5px">5
                         </td>
                     </tr>
                     <tr>
@@ -58,7 +59,7 @@
                         </td>
                         <td style="border: 1px solid #000;
                                border-collapse: collapse;
-                               padding: 5px">100
+                               padding: 5px">5
                         </td>
                     </tr>
                     <tr>
@@ -69,7 +70,19 @@
                         </td>
                         <td style="border: 1px solid #000;
                                border-collapse: collapse;
-                               padding: 5px">445
+                               padding: 5px">4
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="border: 1px solid #000;
+                               border-collapse: collapse;
+                               padding: 5px">
+                            За семестр
+                        </td>
+                        <td style="border: 1px solid #000;
+                               border-collapse: collapse;
+                               padding: 5px"
+                        >4,7
                         </td>
                     </tr>
                 </table>
@@ -92,10 +105,43 @@
                     <tr>
                         <td style="border: 1px solid #000;
                                border-collapse: collapse;
-                               padding: 5px;text-align:left;">Физическая подготовка</td>
+                               padding: 5px;text-align:left;">Строевая подготовка</td>
                         <td style="border: 1px solid #000;
                                border-collapse: collapse;
                                padding: 5px">
+                            4
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="border: 1px solid #000;
+                               border-collapse: collapse;
+                               padding: 5px">
+                            Философия
+                        </td>
+                        <td style="border: 1px solid #000;
+                               border-collapse: collapse;
+                               padding: 5px">5</td>
+                    </tr>
+                    <tr>
+                        <td style="border: 1px solid #000;
+                               border-collapse: collapse;
+                               padding: 5px">
+                            Социология
+                        </td>
+                        <td style="border: 1px solid #000;
+                               border-collapse: collapse;
+                               padding: 5px">5
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="border: 1px solid #000;
+                               border-collapse: collapse;
+                               padding: 5px">
+                            Физика
+                        </td>
+                        <td style="border: 1px solid #000;
+                               border-collapse: collapse;
+                               padding: 5px">4
                         </td>
                     </tr>
                     <tr>
@@ -106,17 +152,40 @@
                         </td>
                         <td style="border: 1px solid #000;
                                border-collapse: collapse;
-                               padding: 5px"></td>
+                               padding: 5px">5
+                        </td>
                     </tr>
                     <tr>
                         <td style="border: 1px solid #000;
                                border-collapse: collapse;
                                padding: 5px">
-                            Информатика
+                            История
                         </td>
                         <td style="border: 1px solid #000;
                                border-collapse: collapse;
-                               padding: 5px">96
+                               padding: 5px">5
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="border: 1px solid #000;
+                               border-collapse: collapse;
+                               padding: 5px">
+                            Инженерная и компьютерная графика
+                        </td>
+                        <td style="border: 1px solid #000;
+                               border-collapse: collapse;
+                               padding: 5px">5
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="border: 1px solid #000;
+                               border-collapse: collapse;
+                               padding: 5px">
+                            Физическая подготовка
+                        </td>
+                        <td style="border: 1px solid #000;
+                               border-collapse: collapse;
+                               padding: 5px">5
                         </td>
                     </tr>
                     <tr>
@@ -127,18 +196,30 @@
                         </td>
                         <td style="border: 1px solid #000;
                                border-collapse: collapse;
-                               padding: 5px">100
+                               padding: 5px">5
                         </td>
                     </tr>
                     <tr>
                         <td style="border: 1px solid #000;
                                border-collapse: collapse;
                                padding: 5px">
-                            Строевая подготовка
+                            Программирование
                         </td>
                         <td style="border: 1px solid #000;
                                border-collapse: collapse;
-                               padding: 5px">445
+                               padding: 5px">5
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="border: 1px solid #000;
+                               border-collapse: collapse;
+                               padding: 5px">
+                            За семестр
+                        </td>
+                        <td style="border: 1px solid #000;
+                               border-collapse: collapse;
+                               padding: 5px"
+                        >4,9
                         </td>
                     </tr>
                 </table>
@@ -171,6 +252,7 @@ background-color: rgba(255, 205, 86, 0.4)"> 3 семестр </p>
                         <td style="border: 1px solid #000;
                                border-collapse: collapse;
                                padding: 5px">
+                            5
                         </td>
                     </tr>
                     <tr>
@@ -181,7 +263,7 @@ background-color: rgba(255, 205, 86, 0.4)"> 3 семестр </p>
                         </td>
                         <td style="border: 1px solid #000;
                                border-collapse: collapse;
-                               padding: 5px"></td>
+                               padding: 5px">5</td>
                     </tr>
                     <tr>
                         <td style="border: 1px solid #000;
@@ -191,7 +273,7 @@ background-color: rgba(255, 205, 86, 0.4)"> 3 семестр </p>
                         </td>
                         <td style="border: 1px solid #000;
                                border-collapse: collapse;
-                               padding: 5px">96
+                               padding: 5px">4
                         </td>
                     </tr>
                     <tr>
@@ -202,7 +284,7 @@ background-color: rgba(255, 205, 86, 0.4)"> 3 семестр </p>
                         </td>
                         <td style="border: 1px solid #000;
                                border-collapse: collapse;
-                               padding: 5px">100
+                               padding: 5px">4
                         </td>
                     </tr>
                     <tr>
@@ -213,7 +295,19 @@ background-color: rgba(255, 205, 86, 0.4)"> 3 семестр </p>
                         </td>
                         <td style="border: 1px solid #000;
                                border-collapse: collapse;
-                               padding: 5px">445
+                               padding: 5px">5
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="border: 1px solid #000;
+                               border-collapse: collapse;
+                               padding: 5px">
+                            За семестр
+                        </td>
+                        <td style="border: 1px solid #000;
+                               border-collapse: collapse;
+                               padding: 5px"
+                        >4,7
                         </td>
                     </tr>
                 </table>
@@ -239,6 +333,7 @@ background-color: rgba(75, 192, 192, 0.4)"> 4 семестр </p>
                         <td style="border: 1px solid #000;
                                border-collapse: collapse;
                                padding: 5px">
+                            5
                         </td>
                     </tr>
                     <tr>
@@ -249,7 +344,7 @@ background-color: rgba(75, 192, 192, 0.4)"> 4 семестр </p>
                         </td>
                         <td style="border: 1px solid #000;
                                border-collapse: collapse;
-                               padding: 5px"></td>
+                               padding: 5px">5</td>
                     </tr>
                     <tr>
                         <td style="border: 1px solid #000;
@@ -259,7 +354,7 @@ background-color: rgba(75, 192, 192, 0.4)"> 4 семестр </p>
                         </td>
                         <td style="border: 1px solid #000;
                                border-collapse: collapse;
-                               padding: 5px">96
+                               padding: 5px">4
                         </td>
                     </tr>
                     <tr>
@@ -270,7 +365,7 @@ background-color: rgba(75, 192, 192, 0.4)"> 4 семестр </p>
                         </td>
                         <td style="border: 1px solid #000;
                                border-collapse: collapse;
-                               padding: 5px">100
+                               padding: 5px">5
                         </td>
                     </tr>
                     <tr>
@@ -281,7 +376,19 @@ background-color: rgba(75, 192, 192, 0.4)"> 4 семестр </p>
                         </td>
                         <td style="border: 1px solid #000;
                                border-collapse: collapse;
-                               padding: 5px">445
+                               padding: 5px">4
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="border: 1px solid #000;
+                               border-collapse: collapse;
+                               padding: 5px">
+                            За семестр
+                        </td>
+                        <td style="border: 1px solid #000;
+                               border-collapse: collapse;
+                               padding: 5px"
+                        >4,5
                         </td>
                     </tr>
                 </table>
@@ -289,7 +396,7 @@ background-color: rgba(75, 192, 192, 0.4)"> 4 семестр </p>
         </div>
     </div>
 </div>
-<div class="wapper_flex" style="display:flex;">
+<div class="wapper_flex" style="display:flex;width: 1400px;margin: 0 auto;">
     <div class="wapper_table_progress"
          style="display:flex;
                     justify-content:space-between;
@@ -361,6 +468,18 @@ background-color: rgba(54, 162, 235, 0.4)"> 5 семестр </p>
                                padding: 5px">445
                         </td>
                     </tr>
+                    <tr>
+                        <td style="border: 1px solid #000;
+                               border-collapse: collapse;
+                               padding: 5px">
+                            За семестр
+                        </td>
+                        <td style="border: 1px solid #000;
+                               border-collapse: collapse;
+                               padding: 5px"
+                        >4,7
+                        </td>
+                    </tr>
                 </table>
             </div>
         </div>
@@ -427,6 +546,18 @@ background-color: rgba(153, 102, 255, 0.4)"> 6 семестр </p>
                         <td style="border: 1px solid #000;
                                border-collapse: collapse;
                                padding: 5px">445
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="border: 1px solid #000;
+                               border-collapse: collapse;
+                               padding: 5px">
+                            За семестр
+                        </td>
+                        <td style="border: 1px solid #000;
+                               border-collapse: collapse;
+                               padding: 5px"
+                        >4,7
                         </td>
                     </tr>
                 </table>
@@ -504,6 +635,18 @@ background-color: rgba(201, 203, 207, 0.4)"> 7 семестр </p>
                                padding: 5px">445
                         </td>
                     </tr>
+                    <tr>
+                        <td style="border: 1px solid #000;
+                               border-collapse: collapse;
+                               padding: 5px">
+                            За семестр
+                        </td>
+                        <td style="border: 1px solid #000;
+                               border-collapse: collapse;
+                               padding: 5px"
+                        >4,7
+                        </td>
+                    </tr>
                 </table>
             </div>
         </div>
@@ -570,6 +713,18 @@ background-color: rgba(27,149,238,0.4)"> 8 семестр </p>
                         <td style="border: 1px solid #000;
                                border-collapse: collapse;
                                padding: 5px">445
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="border: 1px solid #000;
+                               border-collapse: collapse;
+                               padding: 5px">
+                            За семестр
+                        </td>
+                        <td style="border: 1px solid #000;
+                               border-collapse: collapse;
+                               padding: 5px"
+                        >4,7
                         </td>
                     </tr>
                 </table>
@@ -648,6 +803,18 @@ background-color: rgba(93,18,239,0.4)"> 9 семестр </p>
                                padding: 5px">445
                     </td>
                 </tr>
+                <tr>
+                    <td style="border: 1px solid #000;
+                               border-collapse: collapse;
+                               padding: 5px">
+                        За семестр
+                    </td>
+                    <td style="border: 1px solid #000;
+                               border-collapse: collapse;
+                               padding: 5px"
+                    >4,7
+                    </td>
+                </tr>
             </table>
         </div>
     </div>
@@ -714,6 +881,18 @@ background-color: rgb(27,232,39, 0.4)"> 10 семестр </p>
                     <td style="border: 1px solid #000;
                                border-collapse: collapse;
                                padding: 5px">445
+                    </td>
+                </tr>
+                <tr>
+                    <td style="border: 1px solid #000;
+                               border-collapse: collapse;
+                               padding: 5px">
+                        За семестр
+                    </td>
+                    <td style="border: 1px solid #000;
+                               border-collapse: collapse;
+                               padding: 5px"
+                    >4,7
                     </td>
                 </tr>
             </table>

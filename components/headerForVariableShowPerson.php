@@ -37,7 +37,7 @@
                 <a href="../page/variableSportPage.php" class="menu_url">Спортивные достижения</a>
             </li>
             <li class="menu_item">
-                <a href="#">Общая Статистика</a>
+                <a href="../page/variableGeneralPage.php">Общая cтатистика</a>
             </li>
         </ul>
     </div>

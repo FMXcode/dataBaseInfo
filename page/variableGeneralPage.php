@@ -46,11 +46,11 @@
 require_once "../components/headerForVariableShowPerson.php";
 ?>
 <div class="container">
-    <h3>Научно-исследовательская работа</h3>
+    <h3>Общая cтатистика</h3>
     <div class="wapper_chart">
         <?php
-        require_once "../components/variableChartSRW.php";
-        require_once "../components/variableSRWTable.php";
+        require_once "../components/variableChartGeneral.php";
+        require_once "../components/variableGeneralTable.php";
         ?>
     </div>
 </div>
