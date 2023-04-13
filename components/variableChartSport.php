@@ -16,7 +16,7 @@
             ],
             datasets: [{
                 label: '1 семестр',
-                data: [15, 29, 30, 41, 56, 55],
+                data: [15, 29, 30, 41, 56],
                 fill: true,
                 backgroundColor: 'rgba(255, 99, 132, 0.2)',
                 borderColor: 'rgb(255, 99, 132)',
@@ -26,7 +26,7 @@
                 pointHoverBorderColor: 'rgb(255, 99, 132)'
             }, {
                 label: 'Текущий семестр',
-                data: [28, 48, 40, 29, 66, 57],
+                data: [28, 48, 40, 29, 66],
                 fill: true,
                 backgroundColor: 'rgba(54, 162, 235, 0.2)',
                 borderColor: 'rgb(54, 162, 235)',

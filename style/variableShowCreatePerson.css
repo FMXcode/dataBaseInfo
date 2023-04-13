@@ -1,0 +1,29 @@
+
+.button_wapper_get{
+    margin: 0 auto;
+    width: 600px;
+    display: flex;
+    justify-content: space-between;
+}
+.button__export{
+    text-align: center;
+    background-color: white;
+    width: 200px;
+    height: 80px;
+    margin: 0 auto;
+    margin-top: 30px;
+    border-radius: 10px;
+    padding: 10px;
+}
+.button__export:hover{
+    box-shadow: 0 7px 25px 0 rgb(0 0 0 / 18%);
+}
+.export__link{
+    text-decoration: none;
+    color: #000;
+}
+.button__img{
+    margin-top: 10px;
+    width: 30px;
+    height: 30px;
+}

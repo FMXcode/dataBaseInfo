@@ -10,6 +10,9 @@ require_once 'variableGeneralData.php';
 //variable_general_data - Личные данные;
 //family - семья;
 
+require_once 'variableSemester1.php';
+//semester - оценки по семестрам;
+
 require_once 'variableCreateSRW.php';
 //variable_srw - Участие в НИР;
 //variable_other_srw - Другие значимые достижения в области научно-методической деятельности
@@ -23,4 +26,4 @@ require_once 'variableCreateIncentives.php';
 require_once 'variableCreatePenalties.php';
 //variable_penalties - Взыскания;
 
-header('Location: /');
+header('Location: variableShowCreatePerson.php');

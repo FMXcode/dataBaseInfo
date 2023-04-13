@@ -46,15 +46,12 @@
 require_once "../components/headerForVariableShowPerson.php";
 ?>
 <div class="container">
-    <h3>Научно-исследовательская работа</h3>
+    <h3>Общая cтатистика</h3>
     <div class="wapper_chart">
         <?php
-        require_once "../components/variableChartSRW.php";
-        require_once "../components/variableSRWTable.php";
+        require_once "../components/variableChartCreation.php";
+        require_once "../components/variableCreationTable.php";
         ?>
-        <div class="button_wapper_get">
-            <button type="button" class="progressButton"><a href="../pdf-generation/variableSRWConverting.php" class="progress__button">Экспортировать в pdf</a></button>
-        </div>
     </div>
 </div>
 </body>

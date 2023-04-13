@@ -15,7 +15,7 @@
                 <button type="button" class="activeSlideShow"><a href="../page/variableShowPerson.php">Предпросмотр</a></button>
             </div>
             <div class="button_wapper">
-                <button type="button"><a href="../pdf-generation/variableConverting.php">Экспортировать в pdf</a></button>
+                <button type="button"><a href="../vendor/variableShowCreatePerson.php">Экспортировать в pdf</a></button>
             </div>
         </div>
     </div>

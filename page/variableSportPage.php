@@ -52,6 +52,9 @@ require_once "../components/headerForVariableShowPerson.php";
         require_once "../components/variableChartSport.php";
         require_once "../components/variableSportTable.php";
         ?>
+        <div class="button_wapper_get">
+            <button type="button" class="progressButton"><a href="../pdf-generation/variableSportConverting.php" class="progress__button">Экспортировать в pdf</a></button>
+        </div>
     </div>
 </div>
 </body>

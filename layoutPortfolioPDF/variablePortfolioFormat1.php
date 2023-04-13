@@ -53,8 +53,8 @@ $person = mysqli_fetch_assoc($person);
                        font-size: 40px;
                        margin-top: 150px;">ПОРТФОЛИО</h1>
         <p class="main_text field" style="margin: 6px 0px;
-                                              font-size: 18px;width: 650px;margin: 0 auto;">Доцент кафедры Военной академии связи, 12 кафедры (военных систем
-            космической, радиорелейной, тропосферной связи и навигации)
+                                              font-size: 18px;width: 650px;margin: 0 auto;">Курсант Военной академии связи, 3 факультета
+            <br> (Автоматизированных Систем Управления), учебной группы 3882
         </p>
         <div class="line" style="background-color: black;
                                      height: 1px;

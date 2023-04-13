@@ -1,0 +1,35 @@
+.wapper_indicators{
+    width: 1400px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    margin-bottom: 100px;
+}
+.indicators_bloc:hover{
+    box-shadow: 0 7px 25px 0 rgba(0, 0, 0, 0.38);
+}
+.indicators_img img{
+    margin-top: 18px;
+    width: 30px;
+    height: 30px;
+    align-items: center;
+}
+.indicators_bloc{
+    box-shadow: 0 7px 25px 0 rgba(0, 0, 0, 0.18);
+    padding: 15px;
+    border-radius: 18px;
+    width: 200px;
+    height: 80px;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    transition: 0.5s;
+}
+.indicators_info .info {
+    font-size: 30px;
+    color: #229B63;
+    margin-bottom: 10px;
+}
+.indicators_info .title{
+    width: 100px;
+}

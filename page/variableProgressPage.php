@@ -52,6 +52,9 @@ require_once "../components/headerForVariableShowPerson.php";
         require_once "../components/variableShowPersonProgress.php";
         require_once "../components/variableProgressTable.php";
         ?>
+        <div class="button_wapper_get">
+            <button type="button" class="progressButton"><a href="../pdf-generation/variableProgressConverting.php" class="progress__button">Экспортировать в pdf</a></button>
+        </div>
     </div>
 </div>
 </body>

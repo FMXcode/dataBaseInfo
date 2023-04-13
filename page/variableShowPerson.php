@@ -52,7 +52,8 @@ $person = mysqli_fetch_assoc($person);
 <?php
 require_once "../components/headerForVariableShowPerson.php";
 ?>
-<div class="container" style="background-color:  rgb(160, 227, 162)">
+<div class="container" style="background-color:  rgb(160, 227, 162); padding: 100px 250px">
+    <div class="wapper_port" style="background-color: white; width: 800px;border-radius: 10px; margin: 0 auto;padding: 100px;">
         <div class="wapper_main" style="text-align: center;">
             <p class="main_title"
                style="font-size: 20px;
@@ -70,8 +71,8 @@ require_once "../components/headerForVariableShowPerson.php";
                        font-size: 40px;
                        margin-top: 150px;">ПОРТФОЛИО</h1>
             <p class="main_text field" style="margin: 6px 0px;
-                                              font-size: 18px;width: 650px;margin: 0 auto;">Доцент кафедры Военной академии связи, 12 кафедры (военных систем
-                космической, радиорелейной, тропосферной связи и навигации)
+                                              font-size: 18px;width: 650px;margin: 0 auto;">Курсант Военной академии связи, 3 факультета
+                <br> (Автоматизированных Систем Управления), учебной группы 3882
             </p>
             <div class="line" style="background-color: black;
                                      height: 1px;
@@ -93,7 +94,7 @@ require_once "../components/headerForVariableShowPerson.php";
         <h2 style="text-align:center;font-size: 16px;
 margin-top: 60px;">1. Общие сведения</h2>
         <div class="wapper_table">
-            <div class="table">
+            <div class="table" style="width: 620px;margin: 0 auto;">
                 <table style="border: 1px solid #000;
                               border-collapse: collapse;
                               text-align:center;
@@ -1762,6 +1763,7 @@ margin-top: 60px;">3. Личные данные</h2>
             <button type="button"><a href="../pdf-generation/variableConverting.php">Экспортировать в pdf</a></button>
         </div>
     </div>
+</div>
 <br>
 </body>
 </html>

@@ -10,6 +10,11 @@
 .wapper_flex{
     width: 1400px;
 }
-.wapper_table_progress .table_content{
-    background-color: white;
+.container button{
+    margin: 0 auto;
+    margin-top: 100px;
+}
+.progress__button{
+    color: white;
+    text-decoration: none;
 }

@@ -36,9 +36,6 @@
             <li class="menu_item">
                 <a href="#otherAchievements" class="menu_url">Иные достижения</a>
             </li>
-            <li class="menu_item">
-                <a href="#">Копии подтверждающих документов</a>
-            </li>
         </ul>
     </div>
 

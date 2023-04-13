@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="../style/headerMenu.css">
     <link rel="stylesheet" href="../style/varibleHeaderMenu.css">
     <link rel="stylesheet" href="../style/variableProgressPage.css">
+    <link rel="stylesheet" href="../style/variableGeneralTable.css">
     <title>Document</title>
     <script src="chart.umd.js"></script>
 </head>
@@ -49,8 +50,8 @@ require_once "../components/headerForVariableShowPerson.php";
     <h3>Общая cтатистика</h3>
     <div class="wapper_chart">
         <?php
-        require_once "../components/variableChartGeneral.php";
         require_once "../components/variableGeneralTable.php";
+        require_once "../components/variableChartGeneral.php";
         ?>
     </div>
 </div>

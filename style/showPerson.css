@@ -1,4 +1,6 @@
-
+body{
+    margin: 0;
+}
 .container{
     padding: 100px 400px;
     background-color: rgba(79, 203, 88, 0.43);
