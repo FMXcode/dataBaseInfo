@@ -1,8 +1,9 @@
 .wapper_menu{
     padding: 5px 20px;
-    background-color: rgb(160, 227, 162);
+    background-color: #14590b;
     position: sticky;
     top: 1px;
+    color: white;
 }
 .wapper_menu h3{
     text-align: center;
@@ -21,7 +22,7 @@
 }
 
 .menu_button a {
-    color: black;
+    color: #fff;
     text-decoration: none;
 }
 .wapper_point button{

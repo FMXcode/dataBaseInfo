@@ -52,7 +52,7 @@ $person = mysqli_fetch_assoc($person);
 <?php
 require_once "../components/headerForShowPerson.php";
 ?>
-<div class="container" style="background-color:  rgb(160, 227, 162); padding: 100px 200px">
+<div class="container" style="background-color:  #33a637; padding: 100px 200px">
     <div class="wapper_port" style="background-color: white; padding: 100px; border-radius: 10px;width: 800px;margin: 0 auto;">
         <div class="wapper_main" style="text-align: center;">
             <p class="main_title"

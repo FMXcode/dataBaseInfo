@@ -1,7 +1,8 @@
 <h2 style="text-align:center;font-size: 16px;">6. Спортивная деятельность</h2>
 <div class="table" style="width: 610px;
+color: black;
                                       margin: 0 auto;
-                                      margin-top: 20px;">
+                                      margin-top: 20px;background-color: white;padding: 20px;border-radius: 10px">
     <table style="border: 1px solid #000;
                               border-collapse: collapse;
                               text-align:center;

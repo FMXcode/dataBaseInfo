@@ -1,7 +1,8 @@
 <p  style="margin: 0 auto;width: 160px;">5.2. Участие в НИР</p>
 <div class="table" style="width: 610px;
                                       margin: 0 auto;
-                                      margin-top: 20px;">
+                                      color: black;
+                                      margin-top: 20px;background-color: white;padding: 10px;border-radius: 10px">
     <table style="border: 1px solid #000;
                               border-collapse: collapse;
                               text-align:center;

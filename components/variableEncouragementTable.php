@@ -1,5 +1,5 @@
 <div class="wapper_flex" style="display:flex; margin: 0 auto;justify-content:space-between;width: 1400px;">
-    <div class="wapper_item">
+    <div class="wapper_item" >
         <h2 style="text-align:center;
                     font-size: 16px;
                     background-color: rgb(54, 162, 235, 0.4);
@@ -7,8 +7,9 @@
                     margin: 0 auto;
                     line-height: 40px">1. Поощрения</h2>
         <div class="table" style="width: 610px;
+        color: black;
                                       margin: 0 auto;
-                                      margin-top: 20px;">
+                                      margin-top: 20px;background-color: white;padding: 10px;border-radius: 10px">
             <table style="border: 1px solid #000;
                               border-collapse: collapse;
                               text-align:center;
@@ -93,10 +94,11 @@
                     line-height: 40px;" >2. Взыскания</h2>
         <div class="table" style="width: 610px;
                                       margin: 0 auto;
-                                      margin-top: 20px;">
+                                      margin-top: 20px;background-color: white;padding: 10px;border-radius: 10px">
             <table style="border: 1px solid #000;
                               border-collapse: collapse;
                               text-align:center;
+                              color: black;
                               margin: 0 auto;">
                 <tr>
                     <td style="border: 1px solid #000;

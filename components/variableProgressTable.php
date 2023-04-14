@@ -1,6 +1,6 @@
 <h2 style="text-align:center;
                         font-size: 16px;">4. Успеваемость по семестрам</h2>
-<div class="wapper__table__main" style="background-color: white;padding: 30px;border-radius: 10px;width: 1350px;margin: 0 auto;">
+<div class="wapper__table__main" style="background-color: white;padding: 30px;border-radius: 10px;width: 1350px;margin: 0 auto; color: #000">
     <div class="wapper_flex" style="display:flex; width: 1400px;margin: 0 auto;">
         <div class="wapper_table_progress"
              style="display:flex;
@@ -12,6 +12,7 @@
                 <p style="text-align:left;
                       width: 230px;
                       margin: 0;
+                      color: black;
                       font-size: 18px;
                        background-color: rgba(255, 99, 132, 0.4)"> 1 семестр </p>
                 <div class="table" style="margin-top: 5px;">
@@ -94,6 +95,7 @@ font-weight: 700;"
                 <p style="text-align:left;
                       width: 230px;
                       margin: 0;
+                      color: black;
                       font-size: 18px;
                       background-color: rgba(255, 159, 64, 0.4);
 "> 2 семестр </p>
@@ -195,6 +197,7 @@ font-weight: 700;"
                 <p style="text-align:left;
                       width: 230px;
                       margin: 0;
+                      color: black;
                       font-size: 18px;
 background-color: rgba(255, 205, 86, 0.4)"> 3 семестр </p>
                 <div class="table" style="margin-top: 5px;">
@@ -321,6 +324,7 @@ background-color: rgba(255, 205, 86, 0.4)"> 3 семестр </p>
                 <p style="text-align:left;
                       width: 230px;
                       margin: 0;
+                      color: black;
                       font-size: 18px;
 background-color: rgba(75, 192, 192, 0.4)"> 4 семестр </p>
                 <div class="table" style="margin-top: 5px;">
@@ -445,6 +449,7 @@ background-color: rgba(75, 192, 192, 0.4)"> 4 семестр </p>
                 <p style="text-align:left;
                       width: 230px;
                       margin: 0;
+                      color: black;
                       font-size: 18px;
 background-color: rgba(54, 162, 235, 0.4)"> 5 семестр </p>
                 <div class="table" style="margin-top: 5px;">
@@ -581,6 +586,7 @@ background-color: rgba(54, 162, 235, 0.4)"> 5 семестр </p>
                 <p style="text-align:left;
                       width: 230px;
                       margin: 0;
+                      color: black;
                       font-size: 18px;
 background-color: rgba(153, 102, 255, 0.4)"> 6 семестр </p>
                 <div class="table" style="margin-top: 5px;">
@@ -736,6 +742,7 @@ background-color: rgba(153, 102, 255, 0.4)"> 6 семестр </p>
                 <p style="text-align:left;
                       width: 230px;
                       margin: 0;
+                      color: black;
                       font-size: 18px;
 background-color: rgba(201, 203, 207, 0.4)"> 7 семестр </p>
                 <div class="table" style="margin-top: 5px;">
@@ -850,6 +857,7 @@ background-color: rgba(201, 203, 207, 0.4)"> 7 семестр </p>
             <div class="table_content">
                 <p style="text-align:left;
                       width: 230px;
+                      color: black;
                       margin: 0;
                       font-size: 18px;
 background-color: rgba(27,149,238,0.4)"> 8 семестр </p>
