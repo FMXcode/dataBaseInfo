@@ -60,7 +60,7 @@ require_once "../components/variableHeaderMenu.php";
             require_once "../components/variableEncouragement.php";
             ?>
             <div class="button_wapper">
-                <button type="submit">Отправить данные</button>
+                <button type="submit">Сохранить данные</button>
             </div>
         </div>
     <br>

@@ -1,5 +1,5 @@
-<h3 class="title_list title_sport" style="background-color: #14590b; width: 99%; margin: 0 auto;height: 30px;border-radius: 5px; margin: 10px;line-height: 30px; margin-top: 30px;">Спортивная деятельность</h3>
-<div class="wapper_content" style="background-color: #14590b;border-radius: 5px;width: 98%;margin: 0 auto; padding: 10px;">
+<h3 class="title_list title_sport" style="background-color: #3b4c25; width: 99%; margin: 0 auto;height: 30px;border-radius: 5px; margin: 10px;line-height: 30px; margin-top: 30px;">Спортивная работа</h3>
+<div class="wapper_content" style="background-color: #3b4c25;border-radius: 5px;width: 98%;margin: 0 auto; padding: 10px;">
     <div class="wapper_form">
         <div class="wapper_table"  id="sport">
             <div class="scien_textarea">

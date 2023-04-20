@@ -1,6 +1,6 @@
 
-<h3 class="titile_list title_progress" style="background-color: #14590b; width: 99%; margin: 0 auto;height: 30px;border-radius: 5px; margin: 10px;line-height: 30px; margin-top: 30px;">Успеваемость по семестрам</h3>
-<div class="wapper_form_person" style="background-color: #14590b;border-radius: 5px;width: 98%;margin: 0 auto; padding: 10px;">
+<h3 class="titile_list title_progress" style="background-color: #3b4c25; width: 99%; margin: 0 auto;height: 30px;border-radius: 5px; margin: 10px;line-height: 30px; margin-top: 30px;">Успеваемость по семестрам</h3>
+<div class="wapper_form_person" style="background-color: #3b4c25;border-radius: 5px;width: 98%;margin: 0 auto; padding: 10px;">
     <div class="wapper_content" style="width: 1200px;padding:20px 100px;display:flex;justify-content:space-between;margin: 0 auto;">
         <div class="wapper_input">
             <p class="name_semester">1 семестр</p>
@@ -109,7 +109,7 @@
         </div>
     </div>
 </div>
-<div class="wapper_form_person" style="background-color: #14590b;border-radius: 5px;width: 98%;margin: 0 auto; padding: 10px;margin-top: 10px;">
+<div class="wapper_form_person" style="background-color: #3b4c25;border-radius: 5px;width: 98%;margin: 0 auto; padding: 10px;margin-top: 10px;">
     <div class="wapper_content" style="width: 1200px;padding:20px 100px;display:flex;justify-content:space-between;margin: 0 auto;">
         <div class="wapper_input">
             <p class="name_semester">3 семестр</p>
@@ -272,7 +272,7 @@
         </div>
     </div>
 </div>
-<div class="wapper_form_person" style="background-color: #14590b;border-radius: 5px;width: 98%;margin: 0 auto; padding: 10px; margin-top: 10px;">
+<div class="wapper_form_person" style="background-color: #3b4c25;border-radius: 5px;width: 98%;margin: 0 auto; padding: 10px; margin-top: 10px;">
     <div class="wapper_content" style="width: 1200px;padding:20px 100px;display:flex;justify-content:space-between;margin: 0 auto;">
         <div class="wapper_input">
             <p class="name_semester">5 семестр</p>
@@ -462,7 +462,7 @@
         </div>
     </div>
 </div>
-<div class="wapper_form_person" style="background-color: #14590b;border-radius: 5px;width: 98%;margin: 0 auto; padding: 10px;margin-top: 10px;">
+<div class="wapper_form_person" style="background-color: #3b4c25;border-radius: 5px;width: 98%;margin: 0 auto; padding: 10px;margin-top: 10px;">
     <div class="wapper_content" style="width: 1200px;padding:20px 100px;display:flex;justify-content:space-between;margin: 0 auto;">
         <div class="wapper_input">
             <p class="name_semester">7 семестр</p>
@@ -616,7 +616,7 @@
         </div>
     </div>
 </div>
-<div class="wapper_form_person" style="background-color: #14590b;border-radius: 5px;width: 98%;margin: 0 auto; padding: 10px; margin-top: 10px;">
+<div class="wapper_form_person" style="background-color: #3b4c25;border-radius: 5px;width: 98%;margin: 0 auto; padding: 10px; margin-top: 10px;">
     <div class="wapper_content" style="width: 1200px;padding:20px 100px;display:flex;justify-content:space-between;margin: 0 auto;">
         <div class="wapper_input">
             <p class="name_semester">9 семестр</p>

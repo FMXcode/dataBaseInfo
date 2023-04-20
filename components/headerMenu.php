@@ -1,36 +1,35 @@
 
-<div class="wapper_menu" style="height: 240px;">
+<div class="wapper_menu" style="height: 280px;">
     <div class="wapper_content" style="display:flex;justify-content:space-between;">
-        <div class="vas_text">
-            <p class="vas_title" style="font-size: 23px;text-transform:uppercase;font-size: 30px;margin: 0;tex">Военная академия связи</p>
-            <p class="vas_description" style="text-transform:uppercase;">имени маршала советского союза с.м.будённого</p>
+        <div class="vas_text" style="margin: 15px 0 0 25px;width: 50%;">
+            <p class="vas_title" style="font-size: 34px;text-transform:uppercase;margin: 0;">Военная академия связи</p>
+            <p class="vas_description" style="text-transform:uppercase;font-size: 19px;font-weight: 400;">имени маршала советского союза с.м.будённого</p>
             <div class="wapper_img" style="display:flex;">
-                <img src="../photo/slide-33.png" alt="" style="width: 40px;height: 40px;">
-                <img src="../photo/Орден2.png" alt="" style="width: 40px;height: 40px;">
-                <img src="../photo/Орден3.png" alt="" style="width: 40px;height: 40px;">
+                <img src="../photo/slide-33.png" alt="" style="width: 50px;height: 50px;margin-bottom: -20px;">
+                <img src="../photo/Орден2.png" alt="" style="width: 50px;height: 50px;">
+                <img src="../photo/Орден3.png" alt="" style="width: 50px;height: 50px;">
             </div>
         </div>
-        <div class="img"><img src="../photo/VAS.png" alt="" style="height: 130px; width: 115px;margin-left: 110px;"></div>
-        <div class="img_vas" style="transform: scale(-1, 1)">
-            <img src="../photo/Slice%207%20(2).png" style="height: 120px; width: 500px;box-shadow: inset 0 0 25px #3b4c25, inset 0 0 25px #3b4c25, inset 0 0 25px #3b4c25, inset 0 0 25px #3b4c25">
+        <div class="img" style="width: 14%;"><a href=""><img src="../photo/VAS.png" alt="" style="width: 110px;margin-left: 110px;margin: 0 auto;"></a></div>
+        <div class="img_vas" style="transform: scale(-1, 1); width: 46%;height: 156px; box-shadow: rgb(59, 76, 37) 0px 0px 25px 0px inset,rgb(59, 76, 37) 0px 0px 25px 0px inset, rgb(59, 76, 37) 0px 0px 25px 0px inset, rgb(59, 76, 37) 0px 0px 25px 0px inset ;margin-right: -20px;background-size: cover">
         </div>
     </div>
-    <div class="wapper_point" style="height: 70px;">
+    <div class="wapper_point" style="height: 70px;margin-top: -5px;">
         <div class="wapper_button">
             <div class="button_wapper const">
-                <button type="button" class="activeSlideConst"><a href="/">Постоянный состав</a></button>
+                <a href="#"><button type="button" class="activeSlideConst">Постоянный состав</button></a>
             </div>
             <div class="button_wapper">
-                <button type="button"><a href="../page/variableInformationPerson.php">Переменный состав</a></button>
+                <a href="../page/variableInformationPerson.php"><button type="button">Переменный состав</button></a>
             </div>
         </div>
-        <h3 style="text-transform:uppercase;">Контроль и учет деятельности обучающихся в вузе</h3>
+        <p style="text-transform:uppercase;font-size: 26px;padding-bottom: 20px;margin: 0;margin-top: 10px;">Подсистема учёта личного состава</p>
         <div class="wapper_button">
             <div class="button_wapper">
-                <button type="button" class="activeSlideShow"><a href="../page/showPerson.php">Предпросмотр</a></button>
+                <a href="../page/showPerson.php"><button type="button" class="activeSlideShow">Предпросмотр</button></a>
             </div>
             <div class="button_wapper">
-                <button type="button"><a href="../pdf-generation/converting.php">Экспортировать в pdf</a></button>
+                <a href="../pdf-generation/converting.php"><button type="button">Экспортировать в pdf</button></a>
             </div>
         </div>
     </div>
@@ -44,10 +43,10 @@
                 <a href="#tableList" class="menu_url">Послужной список</a>
             </li>
             <li class="menu_item">
-                <a href="#workForm" class="menu_url">Учебная работа</a>
+                <a href="#workForm" class="menu_url">Образовательная деятельность</a>
             </li>
             <li class="menu_item">
-                <a href="#scienWorkForm" class="menu_url">Научно-методическая работа</a>
+                <a href="#scienWorkForm" class="menu_url">Научная деятельность</a>
             </li>
             <li class="menu_item">
                 <a href="#otherAchievements" class="menu_url">Иные достижения</a>

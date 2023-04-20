@@ -46,10 +46,14 @@
 require_once "../components/headerForVariableShowPerson.php";
 ?>
 <div class="container">
-    <h3>Средняя Успеваемость</h3>
+    <h3 style="background-color: #3b4c25; width: 98%; margin: 0 auto;height: 30px;border-radius: 5px; margin: 10px;line-height: 30px; ">Средняя Успеваемость</h3>
     <div class="wapper_chart">
+        <div class="wapper__block" style="background-color: #3b4c25;border-radius: 5px;width: 98%;margin: 0 auto; padding: 10px;">
+            <?php
+            require_once "../components/variableShowPersonProgress.php";
+            ?>
+        </div>
         <?php
-        require_once "../components/variableShowPersonProgress.php";
         require_once "../components/variableProgressTable.php";
         ?>
         <div class="button_wapper_get">

@@ -7,7 +7,7 @@
 }
 .button__export{
     text-align: center;
-    background-color: white;
+    background-color: rgba(203, 211, 218);
     width: 200px;
     height: 80px;
     margin: 0 auto;
@@ -19,11 +19,15 @@
     box-shadow: 0 7px 25px 0 rgb(0 0 0 / 18%);
 }
 .export__link{
+    font-weight: bold;
     text-decoration: none;
-    color: #000;
+    color: rgb(59, 76, 37);
 }
 .button__img{
     margin-top: 10px;
     width: 30px;
     height: 30px;
+}
+.wapper_chart{
+    padding: 10px;
 }

@@ -47,18 +47,19 @@
 require_once "../components/headerForVariableShowPerson.php";
 ?>
 <div class="container" style="height: 600px;">
-    <h3>Экспортировать отчетный документ в pdf</h3>
-    <div class="wapper_chart">
+    <h3 style="background-color: #3b4c25; width: 98%; margin: 0 auto;height: 30px;border-radius: 5px; margin: 10px;line-height: 30px; ">Экспортировать отчетный документ в pdf</h3>
+    <div class="wapper__block" style="background-color: #3b4c25;border-radius: 5px;width: 98%;margin: 0 auto; padding: 10px;">
+        <div class="wapper_chart">
             <div class="button__export" style="width: 500px;"><a href="../pdf-generation/variableConverting.php" class="export__link">
-                   <div class="button__title" style="font-size: 22px;">Портфолио</div>  <img src="../photo/don.png" alt="" class="button__img">
+                    <div class="button__title" style="font-size: 22px;">Портфолио</div>  <img src="../photo/don.png" alt="" class="button__img">
                 </a>
             </div>
-        <div class="button_wapper_get"><div class="button__export"><a href="../pdf-generation/variableProgressConverting.php" class="export__link">
-                    <div class="button__title">Образовательная деятельность</div>  <img src="../photo/don.png" alt="" class="button__img"></a></div>
-            <div class="button__export"><a href="../pdf-generation/variableSRWConverting.php" class="export__link"><div class="button__title" style="font-size: 14px;">Научно-исследовательская работа</div>  <img src="../photo/don.png" alt="" class="button__img"></a></div></div>
-        <div class="button_wapper_get">
-            <div class="button__export"><a href="../pdf-generation/variableSportConverting.php" class="export__link"><div class="button__title" style="font-size: 18px;margin-bottom: 10px;">Спортивная работа</div>  <img src="../photo/don.png" alt="" class="button__img"></a></div>
-            <div class="button__export"><a href="../pdf-generation/variableEncouragementConverting.php" class="export__link"><div class="button__title">Дисциплинарная практика </div>  <img src="../photo/don.png" alt="" class="button__img"></a></div></div>
+            <div class="button_wapper_get"><div class="button__export"><a href="../pdf-generation/variableProgressConverting.php" class="export__link">
+                        <div class="button__title">Образовательная деятельность</div>  <img src="../photo/don.png" alt="" class="button__img"></a></div>
+                <div class="button__export"><a href="../pdf-generation/variableSRWConverting.php" class="export__link"><div class="button__title" style="font-size: 14px;">Научно-исследовательская работа</div>  <img src="../photo/don.png" alt="" class="button__img"></a></div></div>
+            <div class="button_wapper_get">
+                <div class="button__export"><a href="../pdf-generation/variableSportConverting.php" class="export__link"><div class="button__title" style="font-size: 18px;margin-bottom: 10px;">Спортивная работа</div>  <img src="../photo/don.png" alt="" class="button__img"></a></div>
+                <div class="button__export"><a href="../pdf-generation/variableEncouragementConverting.php" class="export__link"><div class="button__title">Дисциплинарная практика </div>  <img src="../photo/don.png" alt="" class="button__img"></a></div></div>
         </div>
     </div>
 </div>

@@ -47,12 +47,16 @@
 require_once "../components/headerForVariableShowPerson.php";
 ?>
 <div class="container">
-    <h3>Общая cтатистика</h3>
+    <h3 style="background-color: #3b4c25; width: 98%; margin: 0 auto;height: 30px;border-radius: 5px; margin: 10px;line-height: 30px; ">Общая cтатистика</h3>
     <div class="wapper_chart">
         <?php
         require_once "../components/variableGeneralTable.php";
-        require_once "../components/variableChartGeneral.php";
         ?>
+        <div class="wapper__block" style="background-color: #3b4c25;border-radius: 5px;width: 98%;margin: 0 auto; padding: 10px;">
+            <?php
+            require_once "../components/variableChartGeneral.php";
+            ?>
+        </div>
     </div>
 </div>
 </body>

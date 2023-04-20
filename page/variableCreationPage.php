@@ -46,10 +46,14 @@
 require_once "../components/headerForVariableShowPerson.php";
 ?>
 <div class="container">
-    <h3>Общая cтатистика</h3>
+    <h3 style="background-color: #3b4c25; width: 98%; margin: 0 auto;height: 30px;border-radius: 5px; margin: 10px;line-height: 30px; ">Творческая деятельность</h3>
     <div class="wapper_chart">
+        <div class="wapper__block" style="background-color: #3b4c25;border-radius: 5px;width: 98%;margin: 0 auto; padding: 10px;">
+            <?php
+            require_once "../components/variableChartCreation.php";
+            ?>
+        </div>
         <?php
-        require_once "../components/variableChartCreation.php";
         require_once "../components/variableCreationTable.php";
         ?>
     </div>

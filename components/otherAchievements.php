@@ -1,5 +1,5 @@
-<h3 class="title_list" style="background-color: #14590b; width: 98%; margin: 0 auto;height: 30px;border-radius: 5px; margin: 10px;line-height: 30px; margin-top: 30px;">Иные достижения</h3>
-<div class="table" style="background-color: #14590b;border-radius: 5px;width: 98%;margin: 0 auto; padding: 10px;">
+<h3 class="title_list" style="background-color: #3b4c25; width: 98%; margin: 0 auto;height: 30px;border-radius: 5px; margin: 10px;line-height: 30px; margin-top: 30px;">Иные достижения</h3>
+<div class="table" style="background-color: #3b4c25;border-radius: 5px;width: 98%;margin: 0 auto; padding: 10px;">
     <table style="margin: 0 auto;
                    width: 1200px;
 text-align:center;">

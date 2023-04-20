@@ -1,6 +1,6 @@
 <div class="title_table_scien" style="margin: 0 auto;">
-            <h4 style="background-color: #14590b;text-align:center; width: 99%; margin: 0 auto;height: 30px;border-radius: 5px; margin: 10px;line-height: 30px; margin-top: 30px;">Участие в НИР</h4></div>
-<div class="table" style="background-color: #14590b;border-radius: 5px;width: 98%;margin: 0 auto; padding: 10px;">
+            <h4 style="background-color: #3b4c25;text-align:center; width: 99%; margin: 0 auto;height: 30px;border-radius: 5px; margin: 10px;line-height: 30px; margin-top: 30px;">Участие в НИР</h4></div>
+<div class="table" style="background-color: #3b4c25;border-radius: 5px;width: 98%;margin: 0 auto; padding: 10px;">
     <table style="margin: 0 auto;
                    width: 1200px;
 text-align:center;">
@@ -35,9 +35,9 @@ text-align:center;">
     </table>
 </div>
 <div class="title_table_scien" style="margin: 0 auto;">
-    <h4  style="background-color: #14590b;text-align:center; width: 99%; margin: 0 auto;height: 30px;border-radius: 5px; margin: 10px;line-height: 30px; margin-top: 30px;" >Другие значимые достижения в области научно-методической
+    <h4  style="background-color: #3b4c25;text-align:center; width: 99%; margin: 0 auto;height: 30px;border-radius: 5px; margin: 10px;line-height: 30px; margin-top: 30px;" >Другие значимые достижения в области научно-методической
         деятельности</h4></div>
-<div  class="table" style="background-color: #14590b;border-radius: 5px;width: 98%;margin: 0 auto; padding: 10px;">
+<div  class="table" style="background-color: #3b4c25;border-radius: 5px;width: 98%;margin: 0 auto; padding: 10px;">
     <table style="margin: 0 auto;
                    width: 1200px;
 text-align:center;">

@@ -1,5 +1,5 @@
-<h3 class="title_list" style="background-color: #14590b; width: 98%; margin: 0 auto;height: 30px;border-radius: 5px; margin: 10px;line-height: 30px; margin-top: 30px;">Научно-методическая работа</h3>
-<div class="wapper_scien_work" style="background-color: #14590b;border-radius: 5px;width: 98%;margin: 0 auto; padding: 10px;">
+<h3 class="title_list" style="background-color: #3b4c25; width: 98%; margin: 0 auto;height: 30px;border-radius: 5px; margin: 10px;line-height: 30px; margin-top: 30px;">Научная деятельность</h3>
+<div class="wapper_scien_work" style="background-color:#3b4c25;border-radius: 5px;width: 98%;margin: 0 auto; padding: 10px;">
     <div class="wapper_content" style="width: 1200px;margin: 0 auto;padding: 10px;">
         <div class="title_table_scien"><h4>Повышение квалификации</h4></div>
         <div class="wapper_form">

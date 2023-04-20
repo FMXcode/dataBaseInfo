@@ -1,5 +1,5 @@
-<h3 class="titile_list" style="background-color: #14590b; width: 99%; margin: 0 auto;height: 30px;border-radius: 5px; margin: 10px;line-height: 30px; margin-top: 30px;">Общие сведения</h3>
-<div class="wapper_form_person" style="background-color: #14590b;border-radius: 5px;width: 98%;margin: 0 auto; padding: 10px;">
+<h3 class="titile_list" style="background-color: #3b4c25; width: 99%; margin: 0 auto;height: 30px;border-radius: 5px; margin: 10px;line-height: 30px; margin-top: 10px;">Общие сведения</h3>
+<div class="wapper_form_person" style="background-color: #3b4c25;border-radius: 5px;width: 98%;margin: 0 auto; padding: 10px;">
     <div class="wapper_content" style="width: 1200px;padding:20px 100px;display:flex;justify-content:space-between;margin: 0 auto;">
         <div class="wapper_input">
             <p>Специальность</p>

@@ -1,5 +1,5 @@
-<h3 class="titile_list" id="personInformation" style="background-color: #14590b; width: 98%; margin: 0 auto;height: 30px;border-radius: 5px; margin: 10px;line-height: 30px; ">Общие сведения</h3>
-<div class="wapper_form_person" style="background-color: #14590b;border-radius: 5px;width: 98%;margin: 0 auto; padding: 10px;">
+<h3 class="titile_list" id="personInformation" style="background-color: #3b4c25; width: 98%; margin: 0 auto;height: 30px;border-radius: 5px; margin: 10px;line-height: 30px; ">Общие сведения</h3>
+<div class="wapper_form_person" style="background-color: #3b4c25;border-radius: 5px;width: 98%;margin: 0 auto; padding: 10px;">
     <div class="wapper__content" style="width: 1200px;
     display:flex;
     justify-content:space-between;margin: 0 auto;padding: 10px;">
@@ -26,8 +26,8 @@
             <input type="text" name="patronymic" required placeholder="Иванович">
             <p>Дата рождения</p>
             <input type="date" name="dateBirth" required>
-            <p id="tableList">занимаемая должность</p>
-            <input type="text" name="position" placeholder="Кандидат технических наук ВАС">
+            <p id="tableList">Занимаемая должность</p>
+            <input type="text" name="position" placeholder="">
         </div>
         <div class="wapper_textarea">
             <p>Окончил</p>

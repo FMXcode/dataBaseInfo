@@ -37,7 +37,7 @@ body{
     text-decoration: none;
 }
 .wapper_point .activeSlideShow{
-    background-color: #14a61d;
+    background-color: rgb(161, 172, 178);
 }
 .wapper_point .activeSlideConst{
     background-color: #4CAF50;

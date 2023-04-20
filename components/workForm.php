@@ -1,6 +1,6 @@
 
-<h3 class="title_list" style="background-color: #14590b; width: 98%; margin: 0 auto;height: 30px;border-radius: 5px; margin: 10px;line-height: 30px; margin-top: 20px;">Учебная работа</h3>
-<div class="wapper_work" style="background-color: #14590b;border-radius: 5px;width: 98%;margin: 0 auto; padding: 10px;">
+<h3 class="title_list" style="background-color: #3b4c25; width: 98%; margin: 0 auto;height: 30px;border-radius: 5px; margin: 10px;line-height: 30px; margin-top: 20px;">Образовательная деятельность</h3>
+<div class="wapper_work" style="background-color: #3b4c25;border-radius: 5px;width: 98%;margin: 0 auto; padding: 10px;">
     <div class="wapper_content" style="width: 1200px;margin: 0 auto;padding: 10px;">
         <div class="wapper_title_table">
             <div class="title_work_form">Наименование

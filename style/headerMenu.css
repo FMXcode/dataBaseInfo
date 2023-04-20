@@ -1,6 +1,6 @@
 .wapper_menu{
     padding: 5px 20px;
-    background-color: #14590b;
+    background-color: #3b4c25;
     position: sticky;
     top: 1px;
     color: white;
@@ -26,16 +26,17 @@
     text-decoration: none;
 }
 .wapper_point button{
-    background-color: #4CAF50;
+    background-color: rgba(203, 211, 218);
     border: none;
-    color: white;
+    color: rgb(59, 76, 37);
     padding: 5px 5px;
     text-align: center;
+    border-radius: 2px;
     width: 170px;
     height: 40px;
     text-decoration: none;
     font-size: 15px;
-    margin: 20px 2px;
+    margin: 5px 2px;
     -webkit-transition-duration: 0.4s; /* Safari */
     transition-duration: 0.4s;
     cursor: pointer;
@@ -43,7 +44,7 @@
     transition-duration: 0.4s;
 }
 .wapper_point button:active{
-    background-color: #14a61d;
+    background-color: rgb(161, 172, 178);
 }
 .wapper_point{
     display: flex;
@@ -57,7 +58,15 @@
     text-decoration: none;
 }
 .wapper_point .activeSlideConst{
-    background-color: #14a61d;
+    background-color: rgb(146, 152, 157);
+}
+.img_vas{
+    background-image: url("../photo/Без названия.png");
+    background-repeat: no-repeat;
+    width: 200px;
+}
+.menu_button a:hover{
+    color: #6e8c45;
 }
 
 
